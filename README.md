@@ -40,12 +40,12 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
+- Where can I see your demo?<br>
   [here](https://mrfishpl.github.io/devchallenges.io-MyTeamPage-MrFishPL-/)
-- What was your experience?
-  TIt was very interesting design to code. It required a lot of creativity from me and a lot of informations searching.
-- What have you learned/improved? Grid turned out to be more useful than I previously thought. 
-- Your wisdom? :)
+- What was your experience?<br>
+  It was very interesting design to code. It required a lot of creativity from me and a lot of informations searching.
+- What have you learned/improved? <br>Grid turned out to be more useful than I previously thought. 
+- Your wisdom? :)<br>
   Dear children, learn grid even you think flexbox is better ;_;
 
 ### Built With
